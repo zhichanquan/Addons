@@ -3,7 +3,7 @@
     "zoteroif@qnscholar": {
       "updates": [
         {
-          "version": "6.7.8.1",
+          "version": "6.7.9.1",
           "update_link": "https://raw.githubusercontent.com/zhichanquan/Addons/main/one.xpi",
           "applications": {
             "zotero": {
