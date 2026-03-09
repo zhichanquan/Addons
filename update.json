@@ -16,7 +16,7 @@
     "zoterostyle@polygon.org": {
       "updates": [
         {
-          "version": "5.9.7",
+          "version": "5.9.9",
           "update_link": "https://raw.githubusercontent.com/zhichanquan/Addons/main/style.xpi",
           "applications": {
             "zotero": {
