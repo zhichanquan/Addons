@@ -42,7 +42,7 @@
     "zoteroreference@polygon.org": {
       "updates": [
         {
-          "version": "1.7.2.1",
+          "version": "2.7.3",
           "update_link": "https://raw.githubusercontent.com/zhichanquan/Addons/main/reference.xpi",
           "applications": {
             "zotero": {
